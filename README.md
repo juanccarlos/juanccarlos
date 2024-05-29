@@ -1,4 +1,4 @@
-## Oiii eu sou a Juan Carlos!
+## Hello ! my name is Juan
 
 <div align="center">
   <a href="https://github.com/juanccarlos"> 
